@@ -1,4 +1,3 @@
-# SIPC3
 <!DOCTYPE html>
 <html>
    <head>
